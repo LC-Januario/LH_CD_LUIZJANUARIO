@@ -22,7 +22,7 @@ To set up the project environment, follow these steps:
 ## Files
 
 - [requirements.txt]: Contains the required packages to run this project.
-- [precificacao.ipynb]: Contains the answers to all the questions posed in the challenge and the entire development of an XGBoost model for predicting prices of short-term rental properties, including data extraction, data wrangling, data cleaning, normalization, model training, parameter optimization, model optimization and price prediction.
+- [LH_CD_LUIZJANUARIO.ipynb]: Contains the answers to all the questions posed in the challenge and the entire development of an XGBoost model for predicting prices of short-term rental properties, including data extraction, data wrangling, data cleaning, normalization, model training, parameter optimization, model optimization and price prediction.
 - [modelo_predição_preço_XGB.pkl]: This is a .pkl file containing the XGBRegressor model.
 - [teste_indicium_precificacao.csv]: Contains data used to train and test the model.
 
